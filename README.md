@@ -1,0 +1,1 @@
+this is a simple ai chatbot, please note that it requires you to create and paste your own api key from: [https://github.com/blumako/ai-chatbot.git](https://platform.openai.com/api-keys) in order to work!
